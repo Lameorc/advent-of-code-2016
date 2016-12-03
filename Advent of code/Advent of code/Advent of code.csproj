@@ -46,6 +46,7 @@
     <Compile Include="Day 2\Keypad.cs" />
     <Compile Include="Day 2\KeypadPart2.cs" />
     <Compile Include="Day 2\Runner.cs" />
+    <Compile Include="Day 3\Runner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -53,7 +54,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="input.txt" />
+    <Content Include="Day 3\input.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
