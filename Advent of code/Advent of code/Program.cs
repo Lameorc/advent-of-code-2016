@@ -12,6 +12,8 @@ namespace Advent_of_code
         {
             var day3 = new Day_3.Runner();
             day3.Run();
+            var day4 = new Day_4.Runner();
+            day4.Run();
         }
     }
 }

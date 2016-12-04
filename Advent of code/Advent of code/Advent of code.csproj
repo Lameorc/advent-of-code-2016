@@ -47,6 +47,8 @@
     <Compile Include="Day 2\KeypadPart2.cs" />
     <Compile Include="Day 2\Runner.cs" />
     <Compile Include="Day 3\Runner.cs" />
+    <Compile Include="Day 4\Room.cs" />
+    <Compile Include="Day 4\Runner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
