@@ -14,7 +14,7 @@ namespace Advent_of_code.Day_3
             Part2();
         }
 
-        public void Part1()
+        private void Part1()
         {
             var possible = 0;
             using (
@@ -34,7 +34,7 @@ namespace Advent_of_code.Day_3
                         : 0;
                 }
             }
-            System.Console.WriteLine(possible);
+            System.Console.WriteLine($"Day 3, part 1: {possible}");
         }
 
         public void Part2()
@@ -68,7 +68,7 @@ namespace Advent_of_code.Day_3
                         : 0)
                         : 0;
                 }
-                System.Console.WriteLine(possible);
+                System.Console.WriteLine($"Day 3, part 2: {possible}");
             }
         }
 
