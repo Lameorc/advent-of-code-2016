@@ -56,6 +56,7 @@
     <Compile Include="Day 2\KeypadTests.cs" />
     <Compile Include="Day 2\KeypadPart2Tests.cs" />
     <Compile Include="Day 4\RoomTests.cs" />
+    <Compile Include="Day 6\WordCounterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -63,6 +64,9 @@
       <Project>{67BA1564-C0B9-4A8D-976A-6560E6D3C43F}</Project>
       <Name>Advent of code</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Day 6\sampleInput.txt" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
