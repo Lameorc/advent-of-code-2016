@@ -10,7 +10,7 @@ namespace Advent_of_code
     {
         static void Main(string[] args)
         {
-            var day = new Day_6.Runner();
+            var day = new Day_7.Runner();
             day.Run();
         }
     }
